@@ -49,9 +49,9 @@ export default defineConfig({
           },
           {
             name: 'posts2',
-            label: 'Blog Posts',
-            label_singular: 'Blog Post',
-            folder: 'src/pages/posts',
+            label: 'Blog Posts2',
+            label_singular: 'Blog Post2',
+            folder: 'src/pages/posts2',
             create: true,
             delete: true,
             fields: [
